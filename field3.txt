@@ -1,0 +1,11 @@
+13 10
+o xxx   x oo 
+ xoo xo   xox
+oox oo x x o 
+  o o  x    x
+x x  o o xxxo
+x x xxx   x  
+  o  o x ooxo
+ooxx   ooxoo 
+  oxxx xx  xx
+xxxoxxx xoxxx
